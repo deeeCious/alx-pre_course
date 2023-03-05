@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "ALX" 
+echo "ALX School"
+wq:
+:wq
+
